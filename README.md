@@ -1,13 +1,13 @@
 <div align='center'>  
  
  
- ## Hi 🙌🏼   I'm han-nah Kim 👩🏻‍💻  
+ ### Hi 🙌🏼   I'm han-nah Kim 👩🏻‍💻  
  🏫 [Hanyang University](https://www.hanyang.ac.kr/) ERICA | Department of Computer Science & Engineering  
  🏢 [42 Seoul](https://innovationacademy.kr/academy/contents/view?contentsNo=7&level=2&menuNo=8) | hannkim <img src="https://img.shields.io/badge/42-000000?style=flat-square&logo=42&logoColor=white"/></a>  
 
 </br>
  
-## 🛠 Stacks 🛠
+### 🛠 Stacks 🛠
 
 <!--      badge 사용 방법
  <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
