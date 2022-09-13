@@ -1,4 +1,4 @@
-<div align="center">
+
  
  ## Hi 🙌🏼   I'm han-nah Kim 👩🏻‍💻
 - 🏫 [Hanyang University](https://www.hanyang.ac.kr/) ERICA | Department of Computer Science & Engineering
@@ -36,5 +36,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimhan-nah&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
  
-
+<!--
+<div align="center">
 </div>
+-->
