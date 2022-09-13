@@ -30,8 +30,5 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>
 
-
-<div align="center">
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimhan-nah&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimhan-nah&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
  
-</div>
