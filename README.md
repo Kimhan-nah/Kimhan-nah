@@ -1,8 +1,4 @@
-<div align="center">
- ## Hi 🙌🏼   I'm han-nah Kim 👩🏻‍💻
- 
-</div>
-
+## Hi 🙌🏼   I'm han-nah Kim 👩🏻‍💻 
 - 🏫 [Hanyang University](https://www.hanyang.ac.kr/) ERICA | Department of Computer Science & Engineering
 - 🏢 [42 Seoul](https://innovationacademy.kr/academy/contents/view?contentsNo=7&level=2&menuNo=8) | hannkim
 
