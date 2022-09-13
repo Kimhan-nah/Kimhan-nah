@@ -2,13 +2,10 @@
 - 🏫 [Hanyang University](https://www.hanyang.ac.kr/) ERICA | Department of Computer Science & Engineering
 - 🏢 [42 Seoul](https://innovationacademy.kr/academy/contents/view?contentsNo=7&level=2&menuNo=8) | hannkim
 
-
-
-<div align="center">
  <img src="https://img.shields.io/badge/42-000000?style=flat-square&logo=42&logoColor=white"/></a>  
  
  
-<!--  ## 🛠 Stacks 🛠 -->
+## 🛠 Stacks 🛠
 
 <!--      badge 사용 방법
  <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
@@ -34,8 +31,7 @@
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimhan-nah&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimhan-nah&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
  
-
 </div>
