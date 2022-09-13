@@ -1,4 +1,6 @@
 <div align='center'>  
+ 
+ 
  ## Hi 🙌🏼   I'm han-nah Kim 👩🏻‍💻  
  - 🏫 [Hanyang University](https://www.hanyang.ac.kr/) ERICA | Department of Computer Science & Engineering  
  - 🏢 [42 Seoul](https://innovationacademy.kr/academy/contents/view?contentsNo=7&level=2&menuNo=8) | hannkim <img src="https://img.shields.io/badge/42-000000?style=flat-square&logo=42&logoColor=white"/></a>  
