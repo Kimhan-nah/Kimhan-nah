@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=1,15,18,25,27&height=300&section=header&text=Hi🙌%20I'm%20han-nah%20Kim%20👩🏻‍💻&fontSize=40)
-
 <div align='center'>  
  
+ ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=1,15,18,25,27&height=300&section=header&text=Hi🙌%20I'm%20han-nah%20Kim%20👩🏻‍💻&fontSize=40)
  
  ### Hi 🙌🏼   I'm han-nah Kim 👩🏻‍💻  
  🏫 [Hanyang University](https://www.hanyang.ac.kr/) ERICA | Department of Computer Science & Engineering  
