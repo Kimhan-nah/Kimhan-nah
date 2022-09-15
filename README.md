@@ -34,6 +34,9 @@
 </br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimhan-nah&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![hannkim's 42 stats](https://badge42.vercel.app/api/v2/cl6mmfaz100690gmokif8qy66/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
+
  
  
 </div>
