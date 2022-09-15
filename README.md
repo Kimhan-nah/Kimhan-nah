@@ -46,6 +46,8 @@
   <img src="https://42js.vercel.app/api/v1/certificate/js-piscine-beta/hannkim" alt="hannkim" width="480px" />
  </details>
 
+ <details>
+  <summary> Subjects </summary>  
 |Circle|Subject|Score|
 |:---:|:-----:|:----:|
 |**0 circle**|**Libft**|[![hannkim's 42 Libft Score](https://badge42.vercel.app/api/v2/cl6mmfaz100690gmokif8qy66/project/2166511)](https://github.com/JaeSeoKim/badge42)|
@@ -71,7 +73,7 @@
 ||**CPP Module 07**|[![hannkim's 42 CPP Module 07 Score](https://badge42.vercel.app/api/v2/cl6mmfaz100690gmokif8qy66/project/2763880)](https://github.com/JaeSeoKim/badge42)|
 ||**CPP Module 08**|[![hannkim's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl6mmfaz100690gmokif8qy66/project/2764561)](https://github.com/JaeSeoKim/badge42)|
 ||**cub3d**|[![hannkim's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl6mmfaz100690gmokif8qy66/project/2766632)](https://github.com/JaeSeoKim/badge42)|
-
+ </details>
 
 </div>
 </details>
