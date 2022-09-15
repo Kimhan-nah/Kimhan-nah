@@ -41,6 +41,10 @@
 <summary>42 Seoul</summary>
 <div markdown="1">       
 
+  <details>
+  <summary>Certificate</summary>
+  <img src="https://42js.vercel.app/api/v1/certificate/js-piscine-beta/hannkim" alt="hannkim" width="480px" />
+ </details>
 
 |Circle|Subject|Score|
 |:---:|:-----:|:----:|
@@ -68,10 +72,7 @@
 ||**CPP Module 08**|[![hannkim's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl6mmfaz100690gmokif8qy66/project/2764561)](https://github.com/JaeSeoKim/badge42)|
 ||**cub3d**|[![hannkim's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl6mmfaz100690gmokif8qy66/project/2766632)](https://github.com/JaeSeoKim/badge42)|
 
- <details>
-  <summary>Certificate</summary>
-  <img src="https://42js.vercel.app/api/v1/certificate/js-piscine-beta/hannkim" alt="hannkim" width="480px" />
- </details>
+
 </div>
 </details>
  
