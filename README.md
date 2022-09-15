@@ -69,8 +69,8 @@
 ||**cub3d**|[![hannkim's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl6mmfaz100690gmokif8qy66/project/2766632)](https://github.com/JaeSeoKim/badge42)|
 
 
-<summary>Certificate</summary>
-<img src="https://42js.vercel.app/api/v1/certificate/js-piscine-beta/hannkim" alt="hannkim" width="480px" />
+  <summary>Certificate</summary>
+  <img src="https://42js.vercel.app/api/v1/certificate/js-piscine-beta/hannkim" alt="hannkim" width="480px" />
 
 </div>
 </details>
