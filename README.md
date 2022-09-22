@@ -1,6 +1,7 @@
 <div align='center'>  
  
- ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=1,15,18,25,27&height=300&section=header&text=Hi🙌%20I'm%20han-nah%20Kim%20👩🏻‍💻&fontSize=40)
+<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=1,15,18,25,27&height=300&section=header&text=Hi🙌%20I'm%20han-nah%20Kim%20👩🏻‍💻&fontSize=40) -->
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,15,18,25,27&height=150&section=header)
  
  ### Hi 🙌🏼   I'm han-nah Kim 👩🏻‍💻  
  🏫 [Hanyang University](https://www.hanyang.ac.kr/) ERICA | Department of Computer Science & Engineering  
@@ -35,8 +36,13 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimhan-nah&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![hannkim's 42 stats](https://badge42.vercel.app/api/v2/cl6mmfaz100690gmokif8qy66/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
+<details>
+<summary> 42 Seoul </summary>
+<div markdown="1">
 
+[![hannkim's 42 stats](https://badge42.vercel.app/api/v2/cl6mmfaz100690gmokif8qy66/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
+</details>
+<!--
 <details>
 <summary>42 Seoul</summary>
 <div markdown="1">       
@@ -79,6 +85,6 @@
 
 </div>
 </details>
- 
+--> 
  
 </div>
