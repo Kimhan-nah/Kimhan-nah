@@ -7,6 +7,8 @@
  🏫 [Hanyang University](https://www.hanyang.ac.kr/) ERICA | Department of Computer Science & Engineering  
  🏢 [42 Seoul](https://innovationacademy.kr/academy/contents/view?contentsNo=7&level=2&menuNo=8) | hannkim <img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/></a>  
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimhan-nah%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 </br>
  
 ### 🛠 Stacks 🛠
