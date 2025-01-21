@@ -31,7 +31,6 @@
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimhan-nah&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## 📊 Stats
-<div align="center">
  <a href="https://github.com/Kimhan-nah">
   <img src="https://github-readme-stats.vercel.app/api?username=Kimhan-nah&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula" height="200px" width="400px"/>
  </a>
@@ -42,8 +41,6 @@
     height="200"
   />
  </a>
-
-</div>
 
 </br>
 
